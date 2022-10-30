@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-Consulte a la autora!
+Consulte a la autora Cyntia Juarez.
